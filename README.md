@@ -10,7 +10,7 @@ DO NOT EXTRACT THE ZIP.
 
 To use this cilent, run these commands by order.
 
-git clone rd-multiplayer
+git clone https://github.com/9aze/rd-multiplayer
 
 cd rd-multiplayer
 
